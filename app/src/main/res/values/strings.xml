@@ -8,7 +8,7 @@
     <string name="divider">|</string>
     <string name="toprated_movies">Top Rated Movies</string>
     <string name="popular_movies">Popular Movies</string>
-    <string name="API_KEY">"f77ce5205ea4f7e9f623c69d27d24467"</string>
+    <string name="API_KEY">"your key here"</string>
     <string name="IMAGE_BASE_URL">"https://image.tmdb.org/t/p/w500/"</string>
     <string name="LANGUAGE">"en-US"</string>
 </resources>
