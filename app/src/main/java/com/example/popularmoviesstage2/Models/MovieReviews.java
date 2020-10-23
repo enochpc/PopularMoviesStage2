@@ -1,0 +1,18 @@
+package com.example.popularmoviesstage2.Models;
+
+import com.google.gson.annotations.SerializedName;
+
+import java.util.List;
+
+public class MovieReviews {
+
+    @SerializedName("results")
+    private List<Reviews> reviewList;
+
+    public MovieReviews(List<Reviews> reviewsList) {
+        this.reviewList = reviewList;
+    }
+
+    public List<Reviews> getReviewList() { return reviewList;}
+
+}

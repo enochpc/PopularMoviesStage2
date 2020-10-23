@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PopularMoviesStage1</string>
+    <string name="app_name">PopularMoviesStage2</string>
     <string name="movie_content_description">movieImage</string>
     <string name="movie_text_hint">popular image</string>
     <string name="movie_release_date">release_date</string>
@@ -8,7 +8,11 @@
     <string name="divider">|</string>
     <string name="toprated_movies">Top Rated Movies</string>
     <string name="popular_movies">Popular Movies</string>
-    <string name="API_KEY">"your key here"</string>
+    <string name="API_KEY">"f77ce5205ea4f7e9f623c69d27d24467"</string>
     <string name="IMAGE_BASE_URL">"https://image.tmdb.org/t/p/w500/"</string>
     <string name="LANGUAGE">"en-US"</string>
+    <string name="YOUTUBE_BASE_VIDEO_URL">"https://youtube.com/watch?v="</string>
+    <string name="YOUTUBE_BASE_IMAGE_URL">"https://img.youtube.com/vi/"</string>
+    <string name="YOUTUBE_IMAGE_EXTENSION">"/mqdefault.jpg"</string>
+
 </resources>
