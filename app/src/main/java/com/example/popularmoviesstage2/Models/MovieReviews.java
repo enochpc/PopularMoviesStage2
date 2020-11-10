@@ -9,7 +9,7 @@ public class MovieReviews {
     @SerializedName("results")
     private List<Reviews> reviewList;
 
-    public MovieReviews(List<Reviews> reviewsList) {
+    public MovieReviews(List<Reviews> reviewList) {
         this.reviewList = reviewList;
     }
 

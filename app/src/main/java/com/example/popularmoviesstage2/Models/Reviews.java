@@ -18,12 +18,12 @@ public class Reviews {
 
     }
 
-    public String getAuthor() { return author;}
+    public String getAuthor() { return author; }
 
-    public String getContent() { return content;}
+    public String getContent() { return content; }
 
-    public boolean isExpanded() { return expanded;}
+    public boolean isExpanded() { return expanded; }
 
-    public void setExpanded(boolean expanded) { this.expanded = expanded;}
+    public void setExpanded(boolean expanded) { this.expanded = expanded; }
 
 }
