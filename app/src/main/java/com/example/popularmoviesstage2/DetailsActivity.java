@@ -109,7 +109,7 @@ public class DetailsActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_details);
-        API_KEY = "f77ce5205ea4f7e9f623c69d27d24467";
+        API_KEY = "put your key here";
 
         ButterKnife.bind(this);
         MovieInterface movieService = APIClient.getRetrofitInstance().create(MovieInterface.class);
